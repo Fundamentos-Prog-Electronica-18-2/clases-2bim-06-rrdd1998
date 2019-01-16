@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547648998 source:c:\users\usuario itc\desktop\seman 6\pro2\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+
